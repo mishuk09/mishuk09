@@ -12,12 +12,12 @@
 
 - 🔭 I’m currently working on [School Website](https://mishuk09.github.io/Akbar-Hossain-Model-School-and-College/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mishuk09](https://github.com/mishuk09)
+- 👨‍💻 All of my projects are available at [Github.com/mishuk09](https://github.com/mishuk09)
 - 🌱 I’m currently learning **Javascript,DSA with JAVA**
 
 - 📫 How to reach me **mishukinfo09@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/gtCP5](https://shorturl.at/gtCP5)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1HdtIu_waVCc8Cpuwt4AmxP4aiuCsbMFq/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
