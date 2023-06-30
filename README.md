@@ -3,9 +3,9 @@
 <h3 align="center">I'm sincere,responsible,confident,dedicated, down to earth & rustworthy.</h3>
 
 
-  <img align="right" width="400px" src="https://komarev.com/ghpvc/?username=mishuk09&label=Profile%20views&color=0e75b6&style=flat" alt="mishuk09" /> </p>
+<p align="left"><img align="left"  src="https://komarev.com/ghpvc/?username=mishuk09&label=Profile%20views&color=0e75b6&style=flat" alt="mishuk09" /> </p>
 
-<p align="right"> <imt src="https://drive.google.com/file/d/1ao4EhcYZAF49CbOB3DM4sPfFd5i8zJOI/view?usp=drive_link"/> </p>
+<img align="right" width="400px" src="https://drive.google.com/file/d/1ao4EhcYZAF49CbOB3DM4sPfFd5i8zJOI/view?usp=drive_link"/> 
 - 🔭 I’m currently working on [Educational Website](https://mishuk09.github.io/CSE-Hacks/)
 
 - 🔭 I’m currently working on [School Website](https://mishuk09.github.io/Akbar-Hossain-Model-School-and-College/)
