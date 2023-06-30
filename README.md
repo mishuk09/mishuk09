@@ -3,11 +3,11 @@
 <h3 align="center">I'm sincere,responsible,confident,dedicated, down to earth & rustworthy.</h3>
 
 
-<p align="left"><img align="left"  src="https://komarev.com/ghpvc/?username=mishuk09&label=Profile%20views&color=0e75b6&style=flat" alt="mishuk09" /> </p>
+<p align="left"><img align="left"  src="https://komarev.com/ghpvc/?username=mishuk09&label=Profile%20views&color=0e75b6&style=flat" alt="mishuk09" /> </p><br>
 
-<img align="right" width="400px" src="https://drive.google.com/file/d/1ao4EhcYZAF49CbOB3DM4sPfFd5i8zJOI/view?usp=drive_link"/> 
+ 
 - 🔭 I’m currently working on [Educational Website](https://mishuk09.github.io/CSE-Hacks/)
-
+<img align="right" width="350" src="https://github.com/mishuk09/mishuk09/blob/main/github-logo.png">
 - 🔭 I’m currently working on [School Website](https://mishuk09.github.io/Akbar-Hossain-Model-School-and-College/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mishuk09](https://github.com/mishuk09)
