@@ -6,11 +6,11 @@
 <p align="left"><img align="left"  src="https://komarev.com/ghpvc/?username=mishuk09&label=Profile%20views&color=0e75b6&style=flat" alt="mishuk09" /> </p><br>
 
  
-- 🔭 I’m currently working on [Educational Website](https://mishuk09.github.io/CSE-Hacks/)
+- 🔭 I’m currently working on [Educational Website](https://csehacks.tech/)
   
 <img align="right" width="350" src="https://github.com/mishuk09/mishuk09/blob/main/github-logo.png">
 
-- 🔭 I’m currently working on [School Website](https://mishuk09.github.io/Akbar-Hossain-Model-School-and-College/)
+- 🔭 I’m currently working on [Web3 Projects](https://merchant-wallet-verification.web.app/)
 
 - 👨‍💻 All of my projects are available at [Github.com/mishuk09](https://github.com/mishuk09)
 - 🌱 I’m currently learning **Javascript,DSA with JAVA**
